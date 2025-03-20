@@ -1,4 +1,8 @@
 First Commit
 Second Commit
 Third Commit
+<<<<<<< HEAD
 두번째 브런치
+=======
+첫 번째 브런치
+>>>>>>> main
